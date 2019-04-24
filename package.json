@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Romel FD",
   "license": "MIT",
-  "homepage" : "https://romeldizon.github.io/portfolio",
+  "homepage" : "https://romeldizon.github.io/myportfolio",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
